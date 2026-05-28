@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Blender Archipack",
+
+    "description":
+      "Parametric architectural workflow addon for Blender with real-time editing and advanced building tools.",
+
+    "thumbnail":
+      "https://public-files.gumroad.com/variants/9w5j2m9h2xk3z0xk9n3x4h2m7t0a/previews/4c9f2d5a6b8f0f1b2d3a4e5f6a7b8c9d",
+
+    "gallery": [
+
+      "https://public-files.gumroad.com/variants/9w5j2m9h2xk3z0xk9n3x4h2m7t0a/previews/4c9f2d5a6b8f0f1b2d3a4e5f6a7b8c9d",
+
+      "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?q=80&w=800"
+    ],
+
+    "viewUrl":
+      "https://blender-archipack.gumroad.com/l/ZRMyP?a=338899043",
+
+    "buyUrl":
+      "https://blender-archipack.gumroad.com/l/ZRMyP?a=338899043"
+  },
+
+  {
+    "title": "Ultimate Materials",
+
+    "description":
+      "Huge procedural material pack with customizable node groups and Blender asset browser integration.",
+
+    "thumbnail":
+      "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200",
+
+    "gallery": [
+
+      "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=800",
+
+      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800"
+    ],
+
+    "viewUrl":
+      "https://ryankingart.gumroad.com/l/ultimate-materials?a=338899043",
+
+    "buyUrl":
+      "https://ryankingart.gumroad.com/l/ultimate-materials?a=338899043"
+  },
+
+  {
+    "title": "Botaniq Trees",
+
+    "description":
+      "Massive optimized vegetation library for Blender including trees, shrubs, flowers and animated greenery.",
+
+    "thumbnail":
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1200",
+
+    "gallery": [
+
+      "https://images.unsplash.com/photo-1473773508845-188df298d2d1?q=80&w=800",
+
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800"
+    ],
+
+    "viewUrl":
+      "https://polygoniq.gumroad.com/l/botaniq-trees?a=338899043",
+
+    "buyUrl":
+      "https://polygoniq.gumroad.com/l/botaniq-trees?a=338899043"
+  }
+]
